@@ -15,12 +15,12 @@
     "numeral": "^2.0.6",
     "passport": "^0.5.0",
     "sequelize": "^6.6.5",
+    "supervisor": "^0.12.0",
     "uuid": "^8.3.2"
   },
   "name": "15.sql",
   "version": "1.0.0",
   "main": "01.app.js",
-  "devDependencies": {},
   "scripts": {
     "start": "supervisor app",
     "test": "echo \"Error: no test specified\" && exit 1"
